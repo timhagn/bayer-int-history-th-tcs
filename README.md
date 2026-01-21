@@ -1,7 +1,8 @@
 # Bayer AG - Pharmacology (wsf-nxg-fe) History
 
-This is the (hashed) commit history of my Freelance work at Bayer AG - Pharmacology from March '24 to December '25.
+This is the (hashed) commit history of my Freelance work at Bayer AG - Pharmacology.
 I was contracted as a Freelance Senior Full-Stack Developer & later became Frontend Team Lead.
+All Freelance Consulting work happened from Mid-March 2024 to December 2025 (included).
 
 ## Screenshots of real commit history as *th-tcs*
 
